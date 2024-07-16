@@ -5,6 +5,12 @@ We have explored power of **Llama-index** + **Ollama**
 
 This **README.md** file provides a structured overview of your project, installation instructions, usage guidelines, dependencies, a detailed code walkthrough, and contribution guidelines. 
 
+# Demo Video
+
+<a href="https://www.youtube.com/watch?v=5J1-yxAwsm8" target="_blank">
+  <img src="https://img.youtube.com/vi/5J1-yxAwsm8/0.jpg" alt="Demo Video" style="width:866px;height:480px;">
+</a>
+
 ## Features
 
 - **Document Upload**: Upload PDF documents to summarize.
