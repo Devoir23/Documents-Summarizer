@@ -3,6 +3,8 @@
 This Streamlit application allows users to upload PDF documents and obtain summaries using advanced NLP techniques. It also includes a chat feature for querying documents interactively.
 We have explored power of **Llama-index** + **Ollama**
 
+This **README.md** file provides a structured overview of your project, installation instructions, usage guidelines, dependencies, a detailed code walkthrough, and contribution guidelines. 
+
 ## Features
 
 - **Document Upload**: Upload PDF documents to summarize.
